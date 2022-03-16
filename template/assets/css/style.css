@@ -1,0 +1,72 @@
+.elementor-7990 .elementor-element.elementor-element-6ab5011c {
+    margin-top: 0px !important;
+    margin-bottom: 0px;
+}
+
+#alert-head {
+    padding: 0px;
+}
+
+#font-sign-45{
+    font-family: 'Parisienne';
+    font-size: 45px;
+}
+
+#font-sign-60{
+    font-family: 'Parisienne';
+    font-size: 60px;
+}
+
+#font-title-25{
+    font-family: 'Julius Sans One';
+    font-size: 25px;
+}
+
+#font-title-30{
+    font-family: 'Julius Sans One';
+    font-size: 30px;
+}
+
+#font-title-40{
+    font-family: 'Julius Sans One';
+    font-size: 40px;
+}
+
+/* CLASS */
+
+.font-sign-45{
+    font-family: 'Parisienne' !important;
+    font-size: 45px !important;
+}
+
+.font-sign-60{
+    font-family: 'Parisienne' !important;
+    font-size: 60px !important;
+}
+
+.font-title-25{
+    font-family: 'Julius Sans One' !important;
+    font-size: 25px !important;
+}
+
+.font-title-30{
+    font-family: 'Julius Sans One' !important;
+    font-size: 30px !important;
+}
+
+.font-title-40{
+    font-family: 'Julius Sans One' !important;
+    font-size: 40px !important;
+}
+
+.font-title-50{
+    font-family: 'Julius Sans One' !important;
+    font-size: 50px !important;
+}
+
+.elementor-7514 .elementor-element.elementor-element-282be161:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-7514 .elementor-element.elementor-element-282be161 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-image: '' !important;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
